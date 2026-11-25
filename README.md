@@ -62,5 +62,18 @@ https://github.com/QuantumNous/new-api
 
 <img src="assets/29.png" width="500">
 
+目前销售渠道
+1.淘宝 以ai中转站 tonken中转站名义。
+<img src="assets/30.png" width="500">
+<img src="assets/31.png" width="500">
+
+2.bilibili隐形宣传
+
+<img src="assets/32.png" width="500">
+
+
+
+
+
 
 
