@@ -1,27 +1,13 @@
-# AI中转站文档。
+# AI中转站文档
+资源1
 https://api.meding.site/pricing
+当前已启用模型，总计 83 个
 
+<img src="assets/pic1.jpg" width="750">
+<img src="assets/pic2.jpg" width="750">
 
-## 二级小标题
-**加粗文字**，*斜体文字*
+## 资源2
+[项目地址](https://b.com)
+这是第二条资源的说明文字。
 
-### 图片示例（两种写法）
-<!-- 方式1：图片上传到仓库 assets 文件夹，推荐稳定版 -->
-![这是图片说明](assets/demo.png)
-
-<!-- 方式2：HTML写法，可以自定义图片宽度 -->
-<img src="assets/demo.png" width="700" />
-
-## 列表
-- 第一条内容
-- 第二条内容
-- 第三条内容
-
-## 表格
-| 参数 | 说明 |
-| ---- | ---- |
-| AAAA | 测试内容 |
-| BBBB | 测试内容 |
-
-## 链接
-[跳转地址](https://github.com)
+<img src="assets/pic3.jpg" width="750">
