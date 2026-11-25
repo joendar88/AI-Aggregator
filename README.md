@@ -10,6 +10,6 @@ https://88api.ai
 
 启用模型，总计 106 个
 
-<img src="assets/pic3.jpg" width="750">
-<img src="assets/pic3.jpg" width="750">
-<img src="assets/pic3.jpg" width="750">
+<img src="assets/3.png" width="500">
+<img src="assets/4.png" width="500">
+<img src="assets/5.png" width="500">
