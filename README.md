@@ -51,3 +51,16 @@ https://wanwanzhou.top/
 <img src="assets/25.png" width="500">
 <img src="assets/26.png" width="500">
 <img src="assets/27.png" width="500">
+
+https://www.newapi.ai/zh
+
+目前基本都通过这里来部署
+
+<img src="assets/28.png" width="500">
+
+https://github.com/QuantumNous/new-api
+
+<img src="assets/29.png" width="500">
+
+
+
