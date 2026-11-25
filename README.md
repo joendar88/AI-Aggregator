@@ -4,7 +4,7 @@ https://api.meding.site/pricing
 
 当前已启用模型，总计 83 个
 
-<img src="assets/1.jpg" width="750">
+<img src="assets/1.png" width="750">
 <img src="assets/pic2.jpg" width="750">
 
 ## 资源2
