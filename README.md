@@ -41,3 +41,5 @@ https://beichenapi.com/
 <img src="assets/18.png" width="500">
 <img src="assets/19.png" width="500">
 <img src="assets/20.png" width="500">
+<img src="assets/21.png" width="500">
+<img src="assets/22.png" width="500">
